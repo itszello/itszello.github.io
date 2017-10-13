@@ -1339,12 +1339,12 @@ body {
 }
 .cid-qxUDsqAsGs .navbar {
   padding: .5rem 0;
-  background: #232323;
+  background: #333333;
   transition: none;
   min-height: 77px;
 }
 .cid-qxUDsqAsGs .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #333333;
 }
 .cid-qxUDsqAsGs a {
   font-style: normal;
@@ -1422,7 +1422,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qxUDsqAsGs .dropdown .dropdown-menu {
-  background: #232323;
+  background: #333333;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1493,7 +1493,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ff7f9f;
+  background-color: #ffffff;
 }
 .cid-qxUDsqAsGs button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1784,7 +1784,7 @@ body {
   }
 }
 .cid-qxUDG0vlP1 {
-  background-image: url("../../../assets/images/nvtelen-4-2000x1223.jpg");
+  background-image: url("../../../assets/images/nvtelen-3-1600x700.jpg");
 }
 .cid-qxUDG0vlP1 H1 {
   color: #232323;
