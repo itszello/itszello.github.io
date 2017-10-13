@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "itsello",
-    "currentPage": "page1.html",
+    "currentPage": "itszello.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 48,
+    "uniqCompNum": 72,
     "versionPublish": "4.3.3",
     "theme": {
       "name": "mobirise4",
@@ -548,10 +548,10 @@
         }
       ]
     },
-    "page1.html": {
+    "itszello.html": {
       "settings": {
-        "meta_descr": "Web Site Generator Description",
-        "title": "Page 1",
+        "meta_descr": "",
+        "title": "itszello",
         "order": 1
       },
       "components": [
