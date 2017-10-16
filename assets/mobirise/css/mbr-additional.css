@@ -1794,6 +1794,18 @@ body {
   color: #232323;
   text-align: center;
 }
+.cid-qyekZWqohI {
+  background: #ffffff;
+}
+.cid-qyekZWqohI .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qyekZWqohI .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qxVr3W40r3 {
   padding-top: 60px;
   padding-bottom: 60px;
