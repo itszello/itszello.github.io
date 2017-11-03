@@ -1743,26 +1743,49 @@ body {
 .cid-qyOcCLF4EU .mbr-section-btn {
   color: #000000;
 }
-.cid-qxUDG0vlP1 {
-  background-image: url("../../../assets/images/nvtelen-3-1600x700.jpg");
+.cid-qxVrWPFZcy {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #55b4d4;
 }
-.cid-qxUDG0vlP1 H1 {
-  color: #000000;
+.cid-qxVrWPFZcy .line {
+  background-color: #55b4d4;
+  color: #55b4d4;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-.cid-qxUDG0vlP1 .mbr-text,
-.cid-qxUDG0vlP1 .mbr-section-btn {
-  color: #232323;
-  text-align: center;
+.cid-qxVrWPFZcy .section-text {
+  padding: 2rem 0;
 }
-.cid-qyekZWqohI {
-  background: #ffffff;
-}
-.cid-qyekZWqohI .video-block {
-  margin: auto;
-  width: 100% !important;
+.cid-qxVrWPFZcy .inner-container {
+  margin: 0 auto;
 }
 @media (max-width: 768px) {
-  .cid-qyekZWqohI .video-block {
+  .cid-qxVrWPFZcy .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qxVqlbk7sb {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #55b4d4;
+}
+.cid-qxVqlbk7sb .line {
+  background-color: #55b4d4;
+  color: #55b4d4;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qxVqlbk7sb .section-text {
+  padding: 2rem 0;
+}
+.cid-qxVqlbk7sb .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qxVqlbk7sb .inner-container {
     width: 100% !important;
   }
 }
@@ -1862,52 +1885,6 @@ body {
 }
 .cid-qxVWtB0khU B {
   color: #232323;
-}
-.cid-qxVrWPFZcy {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-qxVrWPFZcy .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qxVrWPFZcy .section-text {
-  padding: 2rem 0;
-}
-.cid-qxVrWPFZcy .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qxVrWPFZcy .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-qxVqlbk7sb {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-qxVqlbk7sb .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qxVqlbk7sb .section-text {
-  padding: 2rem 0;
-}
-.cid-qxVqlbk7sb .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qxVqlbk7sb .inner-container {
-    width: 100% !important;
-  }
 }
 .cid-qxVASVMY8E {
   padding-top: 90px;
