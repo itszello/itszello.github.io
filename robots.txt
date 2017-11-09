@@ -1,5 +1,7 @@
 User-agent: GoogleBot
 Disallow: /szellőztető
+Disallow: /szellőztető/beépítés
+
 
 
 
