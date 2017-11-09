@@ -39,7 +39,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "robotsText": "User-agent: *\n\nDisallow: /\n\nUser-agent: Mediapartners-Google\n\nAllow: /\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://itszello.github.io/",
     "sitemapSwitcherAuto": "on",
