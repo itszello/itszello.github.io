@@ -3,7 +3,7 @@
     "name": "itsello-clone",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 149,
+    "uniqCompNum": 150,
     "versionPublish": "4.3.3",
     "theme": {
       "name": "mobirise4",
@@ -37,7 +37,7 @@
     },
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "UA-16622694",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
