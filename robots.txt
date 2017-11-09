@@ -1,9 +1,7 @@
-User-agent: GoogleBot
-Disallow: /szellőztető
-Disallow: /szellőztető/beépítés
+User-agent: *
 
+Disallow: /
 
+User-agent: Mediapartners-Google
 
-
-
-
+Allow: /
