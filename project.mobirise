@@ -35,7 +35,7 @@
         "#333333"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/nvtelen-1-128x128-1.png",
     "noImageResize": "",
     "google-analytics": "UA-16622694",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -44,7 +44,8 @@
     "siteUrl": "https://itszello.github.io/",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "itszello.html": {
