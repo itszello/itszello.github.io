@@ -1409,18 +1409,28 @@ body {
     padding: 0 0 2rem 0 !important;
   }
 }
-.cid-qAYN8NXcT6 {
-  background-image: url("../../../assets/images/nvtelen-1-1024x768.png");
+.cid-qIC8wCZNBC {
+  background-image: url("../../../assets/images/mbr-4-720x1080.jpg");
 }
-.cid-qAYN8NXcT6 H1 {
-  color: #000000;
+.cid-qIC8wCZNBC h1 {
+  color: #616161;
 }
-.cid-qAYN8NXcT6 .mbr-text,
-.cid-qAYN8NXcT6 .mbr-section-btn B {
-  color: #000000;
+.cid-qIC8wCZNBC h2,
+.cid-qIC8wCZNBC h3,
+.cid-qIC8wCZNBC p {
+  color: #767676;
 }
-.cid-qAYN8NXcT6 DIV {
-  text-align: center;
+.cid-qIC8wCZNBC .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qIC8wCZNBC H1 {
+  color: #ffffff;
+}
+.cid-qIC8wCZNBC SPAN {
+  color: #ffffff;
+}
+.cid-qIC8wCZNBC P {
+  color: #ffffff;
 }
 .cid-qDGPmFO7Ar {
   padding-top: 90px;
