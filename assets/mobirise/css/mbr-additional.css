@@ -1493,6 +1493,26 @@ body {
 .cid-qxVWtB0khU B {
   color: #232323;
 }
+.cid-qJ0cEj9m12 {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qJ0cEj9m12 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qJ0cugQ652 {
+  background: #ffffff;
+}
+.cid-qJ0cugQ652 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qJ0cugQ652 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qHKlZgiPOD {
   padding-top: 60px;
   padding-bottom: 30px;
