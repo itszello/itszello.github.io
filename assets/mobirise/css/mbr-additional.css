@@ -1710,6 +1710,71 @@ body {
 .cid-qAvzbyEs18 .mbr-gallery-item > div > span {
   text-align: center;
 }
+.cid-qKmCplGSy3 {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #000000;
+}
+.cid-qKmCplGSy3 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qKmCplGSy3 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qKmCplGSy3 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qKmCplGSy3 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qKmCplGSy3 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #000000;
+  background: linear-gradient(to left, #000000, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qKmCplGSy3 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qKmCplGSy3 .mbr-gallery-item > div:hover:before {
+  opacity: 0.5 !important;
+}
+.cid-qKmCplGSy3 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qKmCplGSy3 .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #000000 !important;
+  background: linear-gradient(to left, #000000, #45505b) !important;
+  opacity: 0.5;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
+.cid-qKmCplGSy3 .mbr-gallery-item > div > span {
+  text-align: center;
+}
 .cid-qDGBVa6aoj {
   background-image: url("../../../assets/images/ghgfhfghg-1000x667.jpg");
 }
@@ -2494,8 +2559,13 @@ body {
 .cid-qJhtjZgo7T .card-title {
   text-align: center;
 }
+.cid-qKmqVhvEav {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
 .cid-qJcD28hjb5 {
-  padding-top: 135px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -2871,6 +2941,94 @@ body {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
+}
+.cid-qKmiU7aNYA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qKmiU7aNYA .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qKmiU7aNYA .section-text {
+  padding: 2rem 0;
+}
+.cid-qKmiU7aNYA .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qKmiU7aNYA .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qKme3JQ7YU {
+  padding-top: 15px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qKme3JQ7YU .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qKme3JQ7YU .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qKme3JQ7YU .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qKme3JQ7YU .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qKme3JQ7YU .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qKme3JQ7YU .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qKme3JQ7YU .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-qKme3JQ7YU .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qKme3JQ7YU .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
+.cid-qKme3JQ7YU .mbr-gallery-item > div > span {
+  text-align: center;
 }
 .cid-qJcWaaMyhl {
   padding-top: 30px;
