@@ -1,11 +1,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://itszello.github.io/itszello.html</loc>
+		<loc>http://www.itszello.hu/itszello.html</loc>
 	</url>
 	<url>
-		<loc>https://itszello.github.io/itszell.html</loc>
+		<loc>http://www.itszello.hu/itszell.html</loc>
 	</url>
 	<url>
-		<loc>https://itszello.github.io/page2.html</loc>
+		<loc>http://www.itszello.hu/page2.html</loc>
+	</url>
+	<url>
+		<loc>http://www.itszello.hu/page3.html</loc>
+	</url>
+	<url>
+		<loc>http://www.itszello.hu/page4.html</loc>
 	</url>
 </urlset>
